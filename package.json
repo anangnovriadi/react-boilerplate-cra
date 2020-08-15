@@ -49,7 +49,7 @@
     "src/**/*.{js,css}": [
       "prettier --write"
     ],
-    "src/.{js,css}": [
+    "src/*.{js,css}": [
       "prettier --write"
     ]
   }
