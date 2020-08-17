@@ -2,18 +2,22 @@
 
 ### Features
 
-- Routes
-- Components
+- React Routes Dom
+- Bootstrap 4
 
 ### Quick Start
 
 Install package node_modules
   
- npm install
+    npm install
+
+Setting env configuration
+  
+    cp .env.example .env
 
 Run application
   
- npm start
+    npm start
 
 ## License
 
