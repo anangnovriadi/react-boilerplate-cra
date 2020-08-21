@@ -5,7 +5,6 @@ import About from "../components/About";
 
 class routes extends Component {
   render() {
-    console.log(process.env.REACT_APP_NAME);
     return (
       <Router>
         <Switch>
